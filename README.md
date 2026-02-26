@@ -4,7 +4,7 @@ I'm a Civil Engineer hoping to transition to the field of tech, with a growing f
 
 Gaming sparked my love for computers, which led me to explore software development. Right now, I am trying to learn programming from scratch and I decided to start with Python.
 
-Currently sharing my very first personal project**EZ Youtube Downloader**, a Windows YouTube video/audio downloader that’s beginner-friendly and fast.
+Currently sharing my very first personal project **EZ Youtube Downloader**, a Windows YouTube video/audio downloader that’s beginner-friendly and fast.
 
 ---
 
