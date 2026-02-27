@@ -13,7 +13,7 @@ Currently sharing my very first personal project **EZ Youtube Downloader**, a Wi
 [**EZ Youtube Downloader**](https://github.com/kncabatuan/EZ-Youtube-Downloader)  
 An easy-to-use YouTube video/audio downloader for Windows.  
 
-- Download videos up to 1080p and extract high-quality audio  
+- Download videos up to 1080p and extract high-quality audio through yt-dlp
 - Single or batch download modes  
 - Automatic FFmpeg setup and merging  
 - Standalone Windows `.exe` — no installation required  
@@ -26,9 +26,12 @@ Python | SQLite | Git | PyInstaller | yt-dlp | FFmpeg
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Connect with me
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kncabatuan&show_icons=true&theme=radical)
+If you want to connect, you can reach me through the following:
+
+- Email: kncabatuan@yahoo.com
+- Linkedin: https://www.linkedin.com/in/kncabatuan/
 
 ---
 
