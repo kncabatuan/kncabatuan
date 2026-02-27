@@ -22,7 +22,7 @@ An easy-to-use YouTube video/audio downloader for Windows.
 
 ## 🛠 Skills & Tools
 
-Python | SQLite | Git | PyInstaller
+Python | OOP | API | Git | Version Control | SQlite
 
 ---
 
