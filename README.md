@@ -31,7 +31,7 @@ Python | SQLite | Git | PyInstaller | yt-dlp | FFmpeg
 If you want to connect, you can reach me through the following:
 
 - Email: kncabatuan@yahoo.com
-- Linkedin: https://www.linkedin.com/in/kncabatuan/
+- Linkedin: www.linkedin.com/in/kncabatuan
 
 ---
 
