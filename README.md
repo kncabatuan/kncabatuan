@@ -22,7 +22,7 @@ An easy-to-use YouTube video/audio downloader for Windows.
 
 ## 🛠 Skills & Tools
 
-Python | SQLite | Git | PyInstaller | yt-dlp | FFmpeg
+Python | SQLite | Git | PyInstaller
 
 ---
 
