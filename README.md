@@ -29,6 +29,7 @@ A program that converts a PDF file into an Excel spreadsheet
 ## 🛠 Skills & Tools
 
 Python | OOP | API | Git | Version Control | SQLite | Threading | Regex | File I/O | OpenPyXL | Unit Testing & Debugging
+
 ---
 
 ## 🤝 Connect with me
